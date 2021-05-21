@@ -1,0 +1,50 @@
+{
+    "currently-reading": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7895376-M.jpg",
+            "title": "Jony Ive",
+            "link": "https:\/\/openlibrary.org\/works\/OL17021685W\/Jony_Ive?edition=",
+            "authors": [
+                "Leander Kahney"
+            ]
+        }
+    ],
+    "want-to-read": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10087939-M.jpg",
+            "title": "Anxious People",
+            "link": "https:\/\/openlibrary.org\/works\/OL20793817W\/Anxious_People?edition=",
+            "authors": [
+                "Fredrik Backman"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10153705-M.jpg",
+            "title": "Super Thinking",
+            "link": "https:\/\/openlibrary.org\/works\/OL20844260W\/Super_Thinking?edition=",
+            "authors": [
+                "Gabriel Weinberg",
+                "Lauren McCann"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10174106-M.jpg",
+            "title": "User Friendly",
+            "link": "https:\/\/openlibrary.org\/works\/OL20859147W\/User_Friendly?edition=",
+            "authors": [
+                "Cliff Kuang",
+                "Robert Fabricant"
+            ]
+        }
+    ],
+    "already-read": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10174401-M.jpg",
+            "title": "Digital Minimalism",
+            "link": "https:\/\/openlibrary.org\/works\/OL20859374W\/Digital_Minimalism?edition=",
+            "authors": [
+                "Cal Newport"
+            ]
+        }
+    ]
+}
