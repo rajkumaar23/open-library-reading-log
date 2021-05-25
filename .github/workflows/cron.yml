@@ -1,0 +1,38 @@
+name: Build JSON
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/30 * * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup PHP Action
+        uses: shivammathur/setup-php@2.11.0
+        with:
+          tools: composer:v2
+      - name: Install dependencies
+        run: |
+          composer install
+      - name: Run script and commit changes
+        run: |
+          php index.php
+          echo "Setting up git credentials..."
+          git remote set-url origin https://rajkumaar23:"$GH_PAT_TOKEN"@github.com/rajkumaar23/open-library-reading-log.git
+          git config --global user.name "Github Actions"
+          echo "Git credentials configured."
+
+          git checkout main
+          git add .
+          git commit -m "$(date +"%D %T") updating reading log" || echo "No changes, nothing to commit!"
+          git push origin main
+        env:
+          GH_PAT_TOKEN: ${{ secrets.GH_PAT_TOKEN }}
