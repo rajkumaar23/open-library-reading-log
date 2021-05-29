@@ -11,6 +11,15 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/6974986-M.jpg",
+            "title": "Thinking, fast and slow",
+            "link": "https:\/\/openlibrary.org\/works\/OL15992072W\/Thinking_fast_and_slow?edition=",
+            "authors": [
+                "Daniel Kahneman",
+                "Daniel Kahneman"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10958382-M.jpg",
             "title": "Atomic Habits",
             "link": "https:\/\/openlibrary.org\/works\/OL17930368W\/Atomic_Habits?edition=",
