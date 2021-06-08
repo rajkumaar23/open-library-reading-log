@@ -1,5 +1,5 @@
 {
-    "want-to-read": [
+    "currently-reading": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/6974986-M.jpg",
             "title": "Thinking, fast and slow",
@@ -8,7 +8,9 @@
                 "Daniel Kahneman",
                 "Daniel Kahneman"
             ]
-        },
+        }
+    ],
+    "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10958382-M.jpg",
             "title": "Atomic Habits",
