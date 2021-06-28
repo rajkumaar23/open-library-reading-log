@@ -12,11 +12,11 @@
     ],
     "want-to-read": [
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10958382-M.jpg",
-            "title": "Atomic Habits",
-            "link": "https:\/\/openlibrary.org\/works\/OL17930368W\/Atomic_Habits?edition=",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10449931-M.jpg",
+            "title": "The Almanack of Naval Ravikant",
+            "link": "https:\/\/openlibrary.org\/works\/OL22255847W\/The_Almanack_of_Naval_Ravikant?edition=",
             "authors": [
-                "James Clear"
+                "Eric Jorgenson"
             ]
         },
         {
@@ -28,29 +28,11 @@
             ]
         },
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10087939-M.jpg",
-            "title": "Anxious People",
-            "link": "https:\/\/openlibrary.org\/works\/OL20793817W\/Anxious_People?edition=",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10958382-M.jpg",
+            "title": "Atomic Habits",
+            "link": "https:\/\/openlibrary.org\/works\/OL17930368W\/Atomic_Habits?edition=",
             "authors": [
-                "Fredrik Backman"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10153705-M.jpg",
-            "title": "Super Thinking",
-            "link": "https:\/\/openlibrary.org\/works\/OL20844260W\/Super_Thinking?edition=",
-            "authors": [
-                "Gabriel Weinberg",
-                "Lauren McCann"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10174106-M.jpg",
-            "title": "User Friendly",
-            "link": "https:\/\/openlibrary.org\/works\/OL20859147W\/User_Friendly?edition=",
-            "authors": [
-                "Cliff Kuang",
-                "Robert Fabricant"
+                "James Clear"
             ]
         },
         {
@@ -63,11 +45,29 @@
             ]
         },
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10449931-M.jpg",
-            "title": "The Almanack of Naval Ravikant",
-            "link": "https:\/\/openlibrary.org\/works\/OL22255847W\/The_Almanack_of_Naval_Ravikant?edition=",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10087939-M.jpg",
+            "title": "Anxious People",
+            "link": "https:\/\/openlibrary.org\/works\/OL20793817W\/Anxious_People?edition=",
             "authors": [
-                "Eric Jorgenson"
+                "Fredrik Backman"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10174106-M.jpg",
+            "title": "User Friendly",
+            "link": "https:\/\/openlibrary.org\/works\/OL20859147W\/User_Friendly?edition=",
+            "authors": [
+                "Cliff Kuang",
+                "Robert Fabricant"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10153705-M.jpg",
+            "title": "Super Thinking",
+            "link": "https:\/\/openlibrary.org\/works\/OL20844260W\/Super_Thinking?edition=",
+            "authors": [
+                "Gabriel Weinberg",
+                "Lauren McCann"
             ]
         }
     ],
