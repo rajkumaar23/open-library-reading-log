@@ -12,6 +12,31 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7367250-M.jpg",
+            "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+            "link": "https:\/\/openlibrary.org\/works\/OL16664399W\/Daring_Greatly?edition=",
+            "authors": [
+                "Bren\u00e9 Brown"
+            ]
+        },
+        {
+            "image": "https:\/images\/icons\/avatar_book-sm.png",
+            "title": "Hooked",
+            "link": "https:\/\/openlibrary.org\/works\/OL19992071W\/Hooked?edition=",
+            "authors": [
+                "Nir Eyal"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/9002334-M.jpg",
+            "title": "Zero to One: Notes on Startups, or How to Build the Future",
+            "link": "https:\/\/openlibrary.org\/works\/OL17078706W\/Zero_to_One?edition=",
+            "authors": [
+                "Peter Thiel",
+                "Blake Masters"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10449931-M.jpg",
             "title": "The Almanack of Naval Ravikant",
             "link": "https:\/\/openlibrary.org\/works\/OL22255847W\/The_Almanack_of_Naval_Ravikant?edition=",
