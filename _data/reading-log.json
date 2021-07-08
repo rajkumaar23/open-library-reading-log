@@ -12,6 +12,15 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/images\/icons\/avatar_book-sm.png",
+            "title": "No Rules Rules",
+            "link": "https:\/\/openlibrary.org\/works\/OL21674578W\/No_Rules_Rules?edition=",
+            "authors": [
+                "Reed Hastings",
+                "Erin Meyer"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/7367250-M.jpg",
             "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
             "link": "https:\/\/openlibrary.org\/works\/OL16664399W\/Daring_Greatly?edition=",
