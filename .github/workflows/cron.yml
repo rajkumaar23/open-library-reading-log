@@ -19,9 +19,6 @@ jobs:
         uses: shivammathur/setup-php@2.11.0
         with:
           tools: composer:v2
-      - name: Install dependencies
-        run: |
-          composer install
       - name: Run script and commit changes
         run: |
           php index.php
