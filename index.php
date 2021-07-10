@@ -1,9 +1,5 @@
 <?php
 
-use voku\helper\HtmlDomParser;
-
-require_once 'vendor/autoload.php';
-
 $domain = "https://openlibrary.org";
 $base_uri = "$domain/people/rajkumaar23/books";
 $types = ["currently-reading", "want-to-read", "already-read"];
@@ -11,13 +7,12 @@ $types = ["currently-reading", "want-to-read", "already-read"];
 try {
     $data = [];
     foreach ($types as $type) {
-        $dom = HtmlDomParser::file_get_html("$base_uri/$type");
-        $elements = $dom->find('.searchResultItem');
-        foreach ($elements as $element) {
-            $image = "https:" . $element->findOne('img')->getAttribute('src');
-            $title = $element->findOne('.booktitle > a')->text();
-            $link = $domain . $element->findOne('.booktitle > a')->getAttribute('href');
-            $authors = $element->find('span[itemprop="author"] a')->text();
+        $entries = json_decode(file_get_contents("$base_uri/$type.json"))->reading_log_entries;
+        foreach ($entries as $entry) {
+            $title = $entry->work->title;
+            $link = "$domain/books/{$entry->work->cover_edition_key}";
+            $authors = $entry->work->author_names;
+            $image = "https://covers.openlibrary.org/b/id/" . json_decode(file_get_contents("$link.json"))->covers[0] . "-L.jpg";
             $data[$type][] = compact('image', 'title', 'link', 'authors');
         }
     }
@@ -27,4 +22,5 @@ try {
 } catch (Exception $exception) {
     echo $exception->getMessage();
 }
+
 
