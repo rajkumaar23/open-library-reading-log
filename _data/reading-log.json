@@ -12,6 +12,30 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10419762-L.jpg",
+            "title": "Feel Better in 5",
+            "link": "https:\/\/openlibrary.org\/books\/OL30091699M",
+            "authors": [
+                "Dr. Rangan Chatterjee"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8814155-L.jpg",
+            "title": "Why We Sleep",
+            "link": "https:\/\/openlibrary.org\/books\/OL27350689M",
+            "authors": [
+                "Matthew P. Walker"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/9253925-L.jpg",
+            "title": "Altered traits",
+            "link": "https:\/\/openlibrary.org\/books\/OL26932611M",
+            "authors": [
+                "Daniel Goleman"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10524294-L.jpg",
             "title": "No Rules Rules",
             "link": "https:\/\/openlibrary.org\/books\/OL29849756M",
