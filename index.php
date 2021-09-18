@@ -12,8 +12,9 @@ try {
             $title = $entry->work->title;
             $link = "$domain/books/{$entry->work->cover_edition_key}";
             $authors = $entry->work->author_names;
-            $image = "https://covers.openlibrary.org/b/id/" . json_decode(file_get_contents("$link.json"))->covers[0] . "-L.jpg";
-            if (!empty($image) && !empty($title) && !empty($link) && !empty($authors)) {
+            $cover = json_decode(file_get_contents("$link.json"))->covers[0];
+            $image = "https://covers.openlibrary.org/b/id/$cover-L.jpg";
+            if (!empty($cover) && !empty($title) && !empty($link) && !empty($authors)) {
                 $data[$type][] = compact('image', 'title', 'link', 'authors');
             } else {
                 exit(1);
