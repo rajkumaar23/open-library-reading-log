@@ -12,6 +12,14 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8516506-L.jpg",
+            "title": "Man's Search for Meaning",
+            "link": "https:\/\/openlibrary.org\/books\/OL9032925M",
+            "authors": [
+                "Viktor E. Frankl"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10419762-L.jpg",
             "title": "Feel Better in 5",
             "link": "https:\/\/openlibrary.org\/books\/OL30091699M",
