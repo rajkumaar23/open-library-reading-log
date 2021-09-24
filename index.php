@@ -10,9 +10,18 @@ try {
         $entries = json_decode(file_get_contents("$base_uri/$type.json"))->reading_log_entries;
         foreach ($entries as $entry) {
             $title = $entry->work->title;
-            $link = "$domain/books/{$entry->work->cover_edition_key}";
+            if (empty($entry->logged_edition)) {
+                $link = "$domain/books/{$entry->work->cover_edition_key}";
+            } else {
+                $link = $domain . $entry->logged_edition;
+            }
             $authors = $entry->work->author_names;
+            echo $title . "\n";
             $cover = json_decode(file_get_contents("$link.json"))->covers[0];
+            if (empty($cover)) {
+                $link = "$domain/books/{$entry->work->cover_edition_key}";
+                $cover = json_decode(file_get_contents("$link.json"))->covers[0];
+            }
             $image = "https://covers.openlibrary.org/b/id/$cover-L.jpg";
             if (!empty($cover) && !empty($title) && !empty($link) && !empty($authors)) {
                 $data[$type][] = compact('image', 'title', 'link', 'authors');
