@@ -26,6 +26,7 @@ jobs:
           echo "Setting up git credentials..."
           git remote set-url origin https://rajkumaar23:"$GH_PAT_TOKEN"@github.com/rajkumaar23/open-library-reading-log.git
           git config --global user.name "Github Actions"
+          git config --global user.email github@rajkumaar.co.in
           echo "Git credentials configured."
 
           git checkout main
