@@ -1,6 +1,16 @@
 {
     "currently-reading": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8516506-L.jpg",
+            "title": "... Trotzdem Ja zum Leben sagen",
+            "link": "https:\/\/openlibrary.org\/books\/OL9032925M",
+            "authors": [
+                "Viktor E. Frankl",
+                "Viktor Emil Frankl",
+                "Viktor E. Frankl"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/7240555-L.jpg",
             "title": "Thinking, fast and slow",
             "link": "https:\/\/openlibrary.org\/books\/OL25416865M",
@@ -92,16 +102,6 @@
             "link": "https:\/\/openlibrary.org\/books\/OL32037485M",
             "authors": [
                 "Mark Manson"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8513051-L.jpg",
-            "title": "... Trotzdem Ja zum Leben sagen",
-            "link": "https:\/\/openlibrary.org\/books\/OL8952950M",
-            "authors": [
-                "Viktor E. Frankl",
-                "Viktor Emil Frankl",
-                "Viktor E. Frankl"
             ]
         },
         {
