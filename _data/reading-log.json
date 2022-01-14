@@ -22,6 +22,15 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/11300391-L.jpg",
+            "title": "Ikigai",
+            "link": "https:\/\/openlibrary.org\/books\/OL26927371M",
+            "authors": [
+                "H\u00e9ctor Garc\u00eda",
+                "Francesc Miralles"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/2405982-L.jpg",
             "title": "Shantaram",
             "link": "https:\/\/openlibrary.org\/books\/OL10686997M",
