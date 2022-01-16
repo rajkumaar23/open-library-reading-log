@@ -1,16 +1,6 @@
 {
     "currently-reading": [
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8512577-L.jpg",
-            "title": "... Trotzdem Ja zum Leben sagen",
-            "link": "https:\/\/openlibrary.org\/books\/OL26837119M",
-            "authors": [
-                "Viktor E. Frankl",
-                "Viktor Emil Frankl",
-                "Viktor E. Frankl"
-            ]
-        },
-        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/7240555-L.jpg",
             "title": "Thinking, fast and slow",
             "link": "https:\/\/openlibrary.org\/books\/OL25416865M",
@@ -234,6 +224,16 @@
         }
     ],
     "already-read": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8512577-L.jpg",
+            "title": "... Trotzdem Ja zum Leben sagen",
+            "link": "https:\/\/openlibrary.org\/books\/OL26837119M",
+            "authors": [
+                "Viktor E. Frankl",
+                "Viktor Emil Frankl",
+                "Viktor E. Frankl"
+            ]
+        },
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/7895376-L.jpg",
             "title": "Jony Ive",
