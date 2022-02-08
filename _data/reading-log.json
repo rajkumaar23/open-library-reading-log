@@ -1,4 +1,23 @@
 {
+    "currently-reading": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8574581-L.jpg",
+            "title": "The Subtle Art of Not Giving a F*ck",
+            "link": "https:\/\/openlibrary.org\/books\/OL26894399M",
+            "authors": [
+                "Mark Manson"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7240555-L.jpg",
+            "title": "Thinking, fast and slow",
+            "link": "https:\/\/openlibrary.org\/books\/OL25416865M",
+            "authors": [
+                "Daniel Kahneman",
+                "Daniel Kahneman"
+            ]
+        }
+    ],
     "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/11300391-L.jpg",
