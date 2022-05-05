@@ -1,14 +1,6 @@
 {
     "currently-reading": [
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8574581-L.jpg",
-            "title": "The Subtle Art of Not Giving a F*ck",
-            "link": "https:\/\/openlibrary.org\/books\/OL26894399M",
-            "authors": [
-                "Mark Manson"
-            ]
-        },
-        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
             "title": "Thinking, fast and slow",
             "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
@@ -250,6 +242,14 @@
                 "Viktor E. Frankl",
                 "Viktor Emil Frankl",
                 "Viktor E. Frankl"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8574581-L.jpg",
+            "title": "The Subtle Art of Not Giving a F*ck",
+            "link": "https:\/\/openlibrary.org\/books\/OL26894399M",
+            "authors": [
+                "Mark Manson"
             ]
         },
         {
