@@ -1,6 +1,17 @@
 {
     "currently-reading": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7387235-L.jpg",
+            "title": "Sapiens",
+            "link": "https:\/\/openlibrary.org\/books\/OL25881939M",
+            "authors": [
+                "Yuval Noah Harari",
+                "Giuseppe Bernardi",
+                "David Vandermeulen",
+                "Daniel Casanave"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
             "title": "Thinking, fast and slow",
             "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
@@ -68,17 +79,6 @@
             "link": "https:\/\/openlibrary.org\/books\/OL28635329M",
             "authors": [
                 "Dr. Joseph Murphy"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8634250-L.jpg",
-            "title": "Sapiens",
-            "link": "https:\/\/openlibrary.org\/books\/OL26234146M",
-            "authors": [
-                "Yuval Noah Harari",
-                "Giuseppe Bernardi",
-                "David Vandermeulen",
-                "Daniel Casanave"
             ]
         },
         {
