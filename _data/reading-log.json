@@ -22,6 +22,23 @@
     ],
     "want-to-read": [
         {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
+            "title": "F*deu Geral",
+            "link": "https:\/\/openlibrary.org\/books\/OL32037485M",
+            "authors": [
+                "Mark Manson",
+                "Carlos Ramos Malav\u00e9"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/6942045-L.jpg",
+            "title": "Eat, Pray, Love",
+            "link": "https:\/\/openlibrary.org\/books\/OL24959550M",
+            "authors": [
+                "Elizabeth Gilbert"
+            ]
+        },
+        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/9230709-L.jpg",
             "title": "The Boy Who Asked Why",
             "link": "https:\/\/openlibrary.org\/books\/OL27838551M",
@@ -106,14 +123,6 @@
             ]
         },
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
-            "title": "Everything is F*cked",
-            "link": "https:\/\/openlibrary.org\/books\/OL32037485M",
-            "authors": [
-                "Mark Manson"
-            ]
-        },
-        {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10419762-L.jpg",
             "title": "Feel Better in 5",
             "link": "https:\/\/openlibrary.org\/books\/OL30091699M",
@@ -191,7 +200,7 @@
         },
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/12749583-L.jpg",
-            "title": "Un rien peut tout changer !",
+            "title": "Atomic Habits",
             "link": "https:\/\/openlibrary.org\/books\/OL32336498M",
             "authors": [
                 "James Clear"
@@ -249,8 +258,7 @@
             "title": "The Subtle Art of Not Giving a F*ck",
             "link": "https:\/\/openlibrary.org\/books\/OL26193423M",
             "authors": [
-                "Mark Manson",
-                "Urmila Gupta"
+                "Mark Manson"
             ]
         },
         {
