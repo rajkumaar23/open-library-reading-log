@@ -1,4 +1,25 @@
 {
+    "currently-reading": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7387235-L.jpg",
+            "title": "Sapiens",
+            "link": "https:\/\/openlibrary.org\/books\/OL25881939M",
+            "authors": [
+                "Yuval Noah Harari",
+                "Giuseppe Bernardi",
+                "David Vandermeulen",
+                "Daniel Casanave"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
+            "title": "Thinking, fast and slow",
+            "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
+            "authors": [
+                "Daniel Kahneman"
+            ]
+        }
+    ],
     "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
