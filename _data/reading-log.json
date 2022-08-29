@@ -1,25 +1,4 @@
 {
-    "currently-reading": [
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7387235-L.jpg",
-            "title": "Sapiens",
-            "link": "https:\/\/openlibrary.org\/books\/OL25881939M",
-            "authors": [
-                "Yuval Noah Harari",
-                "Giuseppe Bernardi",
-                "David Vandermeulen",
-                "Daniel Casanave"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
-            "title": "Thinking, fast and slow",
-            "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
-            "authors": [
-                "Daniel Kahneman"
-            ]
-        }
-    ],
     "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
@@ -31,9 +10,9 @@
             ]
         },
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/111433-L.jpg",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/6942045-L.jpg",
             "title": "Eat, Pray, Love",
-            "link": "https:\/\/openlibrary.org\/books\/OL7361712M",
+            "link": "https:\/\/openlibrary.org\/books\/OL24959550M",
             "authors": [
                 "Elizabeth Gilbert"
             ]
