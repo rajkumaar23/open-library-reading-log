@@ -1,22 +1,11 @@
 {
     "currently-reading": [
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7387235-L.jpg",
-            "title": "Sapiens",
-            "link": "https:\/\/openlibrary.org\/books\/OL25881939M",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12132013-L.jpg",
+            "title": "The defining decade",
+            "link": "https:\/\/openlibrary.org\/books\/OL25094810M",
             "authors": [
-                "Yuval Noah Harari",
-                "Giuseppe Bernardi",
-                "David Vandermeulen",
-                "Daniel Casanave"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
-            "title": "Thinking, fast and slow",
-            "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
-            "authors": [
-                "Daniel Kahneman"
+                "Meg Jay"
             ]
         }
     ],
@@ -60,9 +49,6 @@
             "link": "https:\/\/openlibrary.org\/books\/OL26927371M",
             "authors": [
                 "H\u00e9ctor Garc\u00eda",
-                "Francesc Miralles",
-                "Hector Garcia, Francesc Miralles, et al.",
-                "H\u00e9ctor Garc\u00eda",
                 "Francesc Miralles"
             ]
         },
@@ -96,6 +82,17 @@
             "link": "https:\/\/openlibrary.org\/books\/OL28635329M",
             "authors": [
                 "Dr. Joseph Murphy"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7387235-L.jpg",
+            "title": "Sapiens",
+            "link": "https:\/\/openlibrary.org\/books\/OL25881939M",
+            "authors": [
+                "Yuval Noah Harari",
+                "Giuseppe Bernardi",
+                "David Vandermeulen",
+                "Daniel Casanave"
             ]
         },
         {
@@ -176,10 +173,8 @@
             "title": "Zero to One",
             "link": "https:\/\/openlibrary.org\/books\/OL25648567M",
             "authors": [
-                "Peter Thiel",
-                "Blake Masters",
-                "Peter Thiel",
-                "Masters, Blake Thiel Peter"
+                "Peter A. Thiel",
+                "Blake Masters"
             ]
         },
         {
@@ -199,7 +194,15 @@
             ]
         },
         {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/-1-L.jpg",
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12571352-L.jpg",
+            "title": "Thinking, fast and slow",
+            "link": "https:\/\/openlibrary.org\/books\/OL36689110M",
+            "authors": [
+                "Daniel Kahneman"
+            ]
+        },
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12886417-L.jpg",
             "title": "Atomic Habits",
             "link": "https:\/\/openlibrary.org\/books\/OL32336498M",
             "authors": [
