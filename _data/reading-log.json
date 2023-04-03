@@ -1,14 +1,4 @@
 {
-    "currently-reading": [
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12132013-L.jpg",
-            "title": "The defining decade",
-            "link": "https:\/\/openlibrary.org\/books\/OL25094810M",
-            "authors": [
-                "Meg Jay"
-            ]
-        }
-    ],
     "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
@@ -33,14 +23,6 @@
             "link": "https:\/\/openlibrary.org\/books\/OL27838551M",
             "authors": [
                 "Sowmya Rajendran"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8443905-L.jpg",
-            "title": "The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now",
-            "link": "https:\/\/openlibrary.org\/books\/OL26791039M",
-            "authors": [
-                "Meg Jay"
             ]
         },
         {
@@ -246,6 +228,14 @@
         }
     ],
     "already-read": [
+        {
+            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12132013-L.jpg",
+            "title": "The defining decade",
+            "link": "https:\/\/openlibrary.org\/books\/OL25094810M",
+            "authors": [
+                "Meg Jay"
+            ]
+        },
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/8512577-L.jpg",
             "title": "... Trotzdem Ja zum Leben sagen",
