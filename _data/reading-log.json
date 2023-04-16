@@ -1,14 +1,4 @@
 {
-    "currently-reading": [
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12824425-L.jpg",
-            "title": "The Psychology of Money",
-            "link": "https:\/\/openlibrary.org\/books\/OL29412746M",
-            "authors": [
-                "Morgan Housel"
-            ]
-        }
-    ],
     "want-to-read": [
         {
             "image": "https:\/\/covers.openlibrary.org\/b\/id\/10703534-L.jpg",
@@ -226,48 +216,6 @@
             "authors": [
                 "Gabriel Weinberg",
                 "Lauren McCann"
-            ]
-        }
-    ],
-    "already-read": [
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12132013-L.jpg",
-            "title": "The defining decade",
-            "link": "https:\/\/openlibrary.org\/books\/OL25094810M",
-            "authors": [
-                "Meg Jay"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/8512577-L.jpg",
-            "title": "... Trotzdem Ja zum Leben sagen",
-            "link": "https:\/\/openlibrary.org\/books\/OL26837119M",
-            "authors": [
-                "Viktor E. Frankl"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/12833491-L.jpg",
-            "title": "The Subtle Art of Not Giving a F*ck",
-            "link": "https:\/\/openlibrary.org\/books\/OL26193423M",
-            "authors": [
-                "Mark Manson"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/7895376-L.jpg",
-            "title": "Jony Ive",
-            "link": "https:\/\/openlibrary.org\/books\/OL25592961M",
-            "authors": [
-                "Leander Kahney"
-            ]
-        },
-        {
-            "image": "https:\/\/covers.openlibrary.org\/b\/id\/10174401-L.jpg",
-            "title": "Digital Minimalism",
-            "link": "https:\/\/openlibrary.org\/books\/OL28243542M",
-            "authors": [
-                "Cal Newport"
             ]
         }
     ]
